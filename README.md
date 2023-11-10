@@ -7,6 +7,8 @@
 
 ##### 참여 기업
 - (주)SMDSolution
+
+---
   
 ## Goals
 
