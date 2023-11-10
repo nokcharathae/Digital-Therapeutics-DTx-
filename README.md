@@ -39,6 +39,6 @@ Miband로부터 데이터를 수신받아 Unreal engine으로 전송
 
 ## References
 
-WebSocket server using the ws module
-- https://github.com/chris-gong/ws-server-example-nodejs
-- 
+WebSocket server using the ws module :  https://github.com/chris-gong/ws-server-example-nodejs
+
+[JavaScript] WebSocket echo 클라이언트/서버 예제 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=websearch&logNo=221136808820
