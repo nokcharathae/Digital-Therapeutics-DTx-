@@ -28,7 +28,14 @@
 · 출입구로부터의 거리
 · 지하/지상/공중
 
+### Establishing a Websocket connection with WebView
+
+**WebSocket**을 통해 **WebView**와 **Unreal Engine** 간의 데이터 **통신**을 가능하게 하고자 하였습니다. WebSocket이란 하나의 TCP 접속에 **전이중 통신 채널**을 제공하는 컴퓨터 통신 프로토콜로 클라이언트와 서버, 즉 **브라우저와 서버**를 연결하고 실시간으로 통신이 가능하도록 할 때 사용되는 일종의 `소켓`이다. 서버는 node.js 기반으로 작성된 예제 코드를 사용하였으며, Unreal Engine은 버전 5를 사용하였습니다. 위 이미지는 해당 통신 과정을 간략하게 설명하고 있습니다.
+Miband로부터 데이터를 수신받아 Unreal engine으로 전송
+
 ![Alt text](image-1.png)
+
+
 
 ## References
 
