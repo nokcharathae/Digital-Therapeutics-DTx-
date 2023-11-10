@@ -9,7 +9,7 @@
 
 본 프로젝트는 다수의 사람이 모이는 장소에서의 공포증에 대한 노출 치료를 위해 몰입형 기기에서 동작하는 Virtual Reality agoraphobia Exposure Therapy (VRET) 어플리케이션을 개발하는 것을 목표로 한다. 
 
-![Alt text](train_cut.gif)
+![Alt text](images/train_cut.gif)
 
 ## Project Stack
 
@@ -28,7 +28,7 @@
 
 ## Establishing a Websocket connection with WebView
 
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 
 - 목표 : Miband로부터 데이터를 수신받아 Unreal engine으로 전송하는 것
   
