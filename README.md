@@ -29,3 +29,9 @@
 · 지하/지상/공중
 
 ![Alt text](image-1.png)
+
+## References
+
+WebSocket server using the ws module
+- https://github.com/chris-gong/ws-server-example-nodejs
+- 
