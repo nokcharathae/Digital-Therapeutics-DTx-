@@ -4,6 +4,9 @@
 - CTO : 김동준
 - Member : 김종훈, 최은영
 - Subject : 가상현실 기반 디지털 치료제
+
+##### 참여 기업
+- (주)SMDSolution
   
 ## Goals
 
